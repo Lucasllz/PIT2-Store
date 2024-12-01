@@ -1,7 +1,5 @@
 **Atividade para o Projeto Integrador Transdisciplinar em Engenharia de Software II**
 
-**Publish Backend Publish Frontend**
-
 **Resumo do Projeto**
 
 **Objetivo**  
